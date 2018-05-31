@@ -24,10 +24,10 @@ def isSub(str1, str2):
             i += 1
     return i == len(str1)
 
-def main():
-	l =["aba", "cdc", "eae"]
-	s = Solution()
-	print s.findLUSlength(l)
-main()
+# def main():
+# 	l =["aba", "cdc", "eae"]
+# 	s = Solution()
+# 	print s.findLUSlength(l)
+# main()
 
     
